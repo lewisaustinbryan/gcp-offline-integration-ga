@@ -1,0 +1,7 @@
+requests>=0.7.0
+fs-gcsfs>=1.4.1
+gcsfs
+pandas>=1.1.0
+google-api-python-client==1.7.4
+google-cloud-storage==1.13.0
+oauth2client==4.1.3
